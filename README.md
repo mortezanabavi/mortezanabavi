@@ -2,7 +2,7 @@
 
 - 🏫  Backend Developer.
 - 🏖️  I do Bug Bounty as a hobby.
-- 💻  I have experience on C++ / Php / JS / Python.
+- 💻  I have experience on C++ / Php / JavaScript / Python.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SingleDevX&label=Profile%20views&color=0e75b6&style=flat" alt="Morteza Nabavi" /> </p>
