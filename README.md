@@ -20,7 +20,7 @@
 <a href="https://www.w3schools.com/cpp/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
 <a href="https://www.mysql.com/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 <a href="https://www.php.net" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" /></a>
-<a href="https://javascript.com" target="blank"><img src="https://commons.wikimedia.org/wiki/File:Javascript_badge.svg#/media/File:Javascript_badge.svg" alt="JavaScript" width="40" height="40" /></a>
+<a href="https://javascript.com" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Javascript_badge.svg" alt="JavaScript" width="40" height="40" /></a>
 <a href="https://www.python.org" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
 <a href="https://www.sqlite.org/" target="blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a> </p>
 
