@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morteza Nabavi</h1>
 
 - 🏫  Backend Developer.
-- 🏖️  I do Bug Bounty as a hobby.
 - 💻  I have experience on Python / PHP / C++ / JavaScript.
 
 
