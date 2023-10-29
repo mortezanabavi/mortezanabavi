@@ -4,7 +4,7 @@
 - 💻  I have experience on Python / PHP / C++ / JavaScript.
 
 
-<p align="left"> <img src="http://65.109.197.153/t.php" alt="" /> </p>
+<p align="left"> <img src="http://65.109.197.153/newbazdid.php" alt="" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mortezanabavi&label=Profile%20views&color=0e75b6&style=flat" alt="Morteza Nabavi" /> </p>
 
