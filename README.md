@@ -29,4 +29,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mortezanabavi&show_icons=true&theme=dark&locale=en" alt="Morteza Nabavi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortezanabavi&theme=dark" alt="Morteza Nabavi" /></p>
