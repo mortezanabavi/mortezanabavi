@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morteza Nabavi</h1>
 
-- 🏫  Backend Developer.
+- 🏫  Backend Developer
 - 💻  I have experience on Python / PHP / C++ / JavaScript.
 
 
