@@ -11,7 +11,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/mortezanabavi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Morteza Nabavi" height="30" width="40" /></a>
-<a href="https://t.me/Pviim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/7ec05081dcb25f30e71cd7200fcd360f5daf1111/src/images/icons/Social/telegram.svg" alt="Morteza Nabavi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
